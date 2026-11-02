@@ -1,0 +1,9 @@
+J1:
+
+Parbauditu vai rezultats ir pareizs. Salidzinatu rezultatu ar žurnala datiem.
+Parbauditu filtru un nosacijumus, jo kļuda var būt ari, ja skripts neuzrada kļudu.
+
+J2:
+
+csv failā izmantots komats semikola vieta, tapec excel visas kolonnas rada kopa.
+Jaizmanto fukciju delimiter=":"
